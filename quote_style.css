@@ -1,0 +1,32 @@
+#text{
+  font-size:20px;
+}
+#quote-box{
+    text-align: center;
+}
+body{
+background: linear-gradient(81deg, rgba(165,164,168,1) 0%, rgba(91,97,88,1) 100%);
+}
+#quote-box{
+  background:white;
+  border-radius: 51px 51px 51px 51px;
+-moz-border-radius: 51px 51px 51px 51px;
+-webkit-border-radius: 51px 51px 51px 51px;
+border: 0px solid #000000;
+  -webkit-box-shadow: 46px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 46px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 46px 10px 5px 0px rgba(0,0,0,0.75);
+  margin-top: 15vh;
+  margin-left: auto;
+  margin-right: auto;
+margin-down:10vh;
+  width: 70%;
+   padding-top: 5vh;
+   padding-down: 5vh;
+   padding-right: auto;
+   padding-left: auto;
+}
+.button:hover{
+  transform: scale(1.05);
+   cursor: pointer;
+}
